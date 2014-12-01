@@ -1,6 +1,7 @@
 contain 	0 gray16
 chill       0 cyan 
-power       0 red  
+power       0 red
+cooling	    0 cadetblue
 ib          0 blue 
 eth         0 gold 
 serv_eth    0 gold3
